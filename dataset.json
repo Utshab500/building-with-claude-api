@@ -1,0 +1,49 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "85 kg",
+      "goal": "Muscle recovery and strength gains with high protein intake and optimal meal timing around weightlifting training",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan includes 4-5 meals distributed throughout the day with pre and post-workout nutrition timing",
+      "Protein content is high (minimum 2.0g per kg bodyweight) across all meals for muscle recovery",
+      "Macronutrient ratios support strength training (protein-focused with adequate carbs and fats)",
+      "Meals are practical, compact, and concise without excessive detail"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength/power athlete (weightlifter) needing protein-dense meals for muscle recovery with specific macro ratios and meal timing around training"
+  },
+  {
+    "prompt_inputs": {
+      "height": "160 cm",
+      "weight": "52 kg",
+      "goal": "Lose 2 kg over 4 weeks while maintaining strength and performance for competition",
+      "restrictions": "Vegetarian, no nuts or tree nuts"
+    },
+    "solution_criteria": [
+      "Creates a calorie deficit meal plan (approximately 300-500 kcal below maintenance) appropriate for safe weight loss in athletes",
+      "Includes adequate protein (minimum 1.6g per kg body weight) from vegetarian sources to preserve muscle mass",
+      "Incorporates micronutrient-dense foods (iron, calcium, magnesium, B vitamins) critical for a vegetarian athlete",
+      "All meals and snacks are nut-free and the plan is presented as a single day format suitable for replication"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a weight-conscious athlete (gymnast or boxer) requiring calorie deficit while maintaining performance nutrition and micronutrient density"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "72 kg",
+      "goal": "Marathon preparation with carbohydrate loading and optimal hydration for high-endurance performance",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan totals 3000+ calories with carbohydrates comprising 55-65% of total intake",
+      "Includes 4-5 eating occasions with hydration strategy integrated throughout the day",
+      "Compact format presenting all meals and hydration guidance in 1 day structure"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring 3000+ daily calories with emphasis on carbohydrate loading and hydration strategies"
+  }
+]
